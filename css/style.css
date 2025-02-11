@@ -184,7 +184,7 @@ header .contact a {
 /* Start Home */
 .home {
       min-height: 100vh;
-      background-image: url(/assets/landing-1.jpg);
+      background-image: url(../assets/landing.jpg);
       background-size: cover;
       position: relative;
 }
@@ -401,7 +401,7 @@ main .home .content .contact-options .call-us {
 /* Start Service */
 .service {
       background-color: #f4f4f4;
-      background-image: url(/assets/8116\ 1.png);
+      background-image: url(../assets/8116\ 1.png);
       background-size: cover;
       height: 505px;
 }
@@ -471,7 +471,7 @@ main .home .content .contact-options .call-us {
 /* End Products */
 /* Start Sustainability */
 .sustain {
-      background-image: url(/assets/8116\ 1\ \(1\).png);
+      background-image: url(../assets/8116\ 1\ \(1\).png);
       background-size: cover;
       min-height: 505px;
       display: flex;
