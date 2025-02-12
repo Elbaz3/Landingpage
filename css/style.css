@@ -250,6 +250,9 @@ main .home .content p {
       main .home .content {
             width: 100%;
       }
+      main .home .container .line {
+            width: 50%;
+      }
       main .home .content h1 {
             font-size: 1.5rem;
       }
