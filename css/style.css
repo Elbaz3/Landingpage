@@ -247,15 +247,18 @@ main .home .content p {
       line-height: 1.5;
 }
 @media (max-width: 797px) {
+      main .home .content {
+            width: 100%;
+      }
       main .home .content h1 {
-            font-size: 2.5rem;
+            font-size: 1.5rem;
       }
       main .home .content p {
-            font-size: 1.2rem;
+            font-size: 0.8rem;
       }
       .custom-btn {
             padding: 0.6rem 0.6rem;
-            font-size: 0.8rem;
+            font-size: 0.6rem;
       }
 }
 main .home .content .contact-options {
