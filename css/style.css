@@ -800,6 +800,8 @@ footer .container .up {
             gap: 2.5rem;
             align-items: center;
       }
+
+
 }
 footer .container .up .about,
 footer .container .up .sub {
@@ -872,6 +874,13 @@ footer .container .up .sub form button {
       font-family: "Inter", serif;
       min-width: 0;
       height: 100%;
+}
+@media (max-width: 786px) {
+      footer .container .up .sub form button {
+            padding: 0.6rem 1rem;
+            font-size: 0.6rem;
+      }
+
 }
 footer hr {
       border: 1px solid #475467;
