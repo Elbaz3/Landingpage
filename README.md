@@ -1,2 +1,2 @@
 ﻿# LandingPage
-https://elbaz3.github.io/LandingPage/
+https://landingpage-lovat-zeta.vercel.app/
