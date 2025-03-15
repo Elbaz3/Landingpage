@@ -109,11 +109,13 @@ header nav ul{
       display: flex;
       list-style: none;
 }
-
+header nav ul li a {
+      border-bottom:  3px solid transparent;
+      transition: 0.3s;
+}
 header nav ul li:hover a{
       background-color: #0000004b ;
-      border-bottom: 3px solid #000000a6;
-      border-radius: 5px;
+      border-bottom-color: #000000a6;
 }
 header nav ul li a {
       color: #fff;
